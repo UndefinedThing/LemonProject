@@ -1,0 +1,15 @@
+#User {
+    #headerRow {
+        color: var(--ion-color-primary-contrast);
+        font-size: 2em;
+        font-weight: 500;
+
+        .profile-picture {
+            padding-bottom: 100%;
+            overflow: hidden;
+            border-radius: 50%;
+            background-position: center;
+            background-size: cover;
+        }
+    }
+}

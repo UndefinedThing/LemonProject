@@ -1,0 +1,45 @@
+{
+    "Conv" : {
+        "noResult" : "Aucun résultats",
+        "contactSearch" : "Recherche de contact",
+        "return" : "RETOUR",
+        "enterMessage" : "Message Text",
+        "letsStart" : "Écrivez votre histoire :)",
+        "quitConv" : "Quitter la conversation"
+    },
+    "Contact" : {
+        "noResult" :"Aucun résultats",
+        "add" : "Ajouter",
+        "contactSearch" : "Recherche de Contact",
+        "searchBar" : "RECHERCHE",
+        "return" : "RETOUR",
+        "contactList" : "Liste des contact(s)",
+        "noContact" : "Pas encore de contact",
+        "noRequest" : "Pas de demande(s) pour le moment",
+        "requestSent" : "Demande(s) de contact envoyée(s)",
+        "requestReceived" : "Demande(s) de Contact(s)"
+    },
+    "Group" : {
+        "noGroupAdded" : "Vous n'appartennez à aucun groupe",
+        "quit" : "Quitter",
+        "list" : "Liste de Groupe(s)",
+        "notCreate" : "Vous n'avez pas créé de groupe",
+        "delete" : "Supprimer",
+        "iCreate" : "Groupe(s) que j'ai créé",
+        "creation" : "Créer un groupe",
+        "name" : "Nom de groupe :",
+        "firstMessage" : "Premier Message",
+        "addMember" : "Ajouter un membre",
+        "create" : "Créer",
+        "addUser" : "Ajouter un utilisateur",
+        "removeUser" : "Retirer un utilisateur",
+        "remove" : "Retirer",
+        "elevateUser" : "Pomouvoir un utilisateur",
+        "retrogadeUser" : "Rétrograder un utilisateur",
+        "demote" : "Rétrograder",
+        "deleteGroup" : "Supprimer le groupe",
+        "quitGroup" : "Quitter le groupe",
+        "noMessage" : "Pas de message"
+    },
+    "loading" : "Veuillez patienter..."
+}
